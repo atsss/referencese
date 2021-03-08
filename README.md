@@ -19,6 +19,10 @@
   - https://zenn.dev/tkdn/books/react-testing-patterns
   - https://zenn.dev/erukiti/articles/unit-testing-react-2021
 
+### Next.js
+- NextAuth
+  - https://yuyao.me/posts/next-prisma-auth-tutorial
+
 ### DND
 - https://dev.classmethod.jp/articles/react-beautiful-dnd-react-ts/
 
@@ -93,6 +97,8 @@
   - https://blog.bitsrc.io/using-github-container-registry-in-practice-295677c6f65e
 - dive
   - https://kotaroooo0-dev.hatenablog.com/entry/2020/07/28/205931
+- mysql
+  - https://phoenixnap.com/kb/mysql-docker-container
 
 ### Monitor
 - https://gigazine.net/news/20210109-optimize-web-image-loading/
