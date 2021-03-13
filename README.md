@@ -22,6 +22,8 @@
 ### Next.js
 - NextAuth
   - https://yuyao.me/posts/next-prisma-auth-tutorial
+- Apollo
+  - https://www.apollographql.com/blog/building-a-next-js-app-with-apollo-client-slash-graphql/
 
 ### DND
 - https://dev.classmethod.jp/articles/react-beautiful-dnd-react-ts/
@@ -38,6 +40,11 @@
 
 ### Video
 - https://blog.bitsrc.io/introduction-to-remotion-create-videos-and-animations-with-react-a57083771607
+
+## Rails
+### payment
+- stripe
+  - https://stripe.com/docs/legacy-checkout/rails
 
 ## Python
 ### Syntax
@@ -57,6 +64,9 @@
 ### Free materials
 - https://qiita.com/KamikawaTakato/items/73b748414567d27a9c52
 - https://ledge.ai/aws-machine-learning-training-certification/
+
+### Activators
+- https://qiita.com/kuroitu/items/73cd401afd463a78115a#%E3%82%B7%E3%82%B0%E3%83%A2%E3%82%A4%E3%83%89%E9%96%A2%E6%95%B0sigmoid
 
 ### Deep learning
 - https://atcold.github.io/pytorch-Deep-Learning/ja/
@@ -91,6 +101,8 @@
 
 ## Infra
 ### Docker
+- Dockerfile
+  - https://sysdig.jp/blog/dockerfile-best-practices/
 - bind mount
   - https://zenn.dev/sarisia/articles/0c1db052d09921
 - Github Container Repositry
