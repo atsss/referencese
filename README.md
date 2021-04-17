@@ -9,15 +9,33 @@
 
 ### Atcoder
 - basic -> https://qiita.com/KoyanagiHitoshi/items/c5e82841b8d0f750851d
-- middle -> https://qiita.com/rudorufu1981/items/8ae8beeba7b047f2687c
+- middle
+  - https://kakedashi-engineer.appspot.com/2020/05/08/light-blue/
+  - https://qiita.com/KoyanagiHitoshi/items/32dc42d8c5ee75339e54
 - しゃくとり -> https://qiita.com/drken/items/ecd1a472d3a0e7db8dce
-- Dynamic programming -> https://qiita.com/drken/items/a5e6fe22863b7992efdb
+- Dynamic programming
+  - https://qiita.com/drken/items/a5e6fe22863b7992efdb
+  - https://www.momoyama-usagi.com/entry/info/algo/dp
+  - https://qiita.com/drken/items/ace3142967c4f01d42e9
+  - https://ameblo.jp/leopapoke/entry-12057911186.html
+- Dijkstra's algorithm <!-- - https://qiita.com/knhr__/items/cb3ce311508337128714 -->
+- Warshall–Floyd Algorithm -> https://qiita.com/okaryo/items/8e6cd73f8a676b7a5d75
+- heap tree
+  - https://medium.com/@yasufumy/data-structure-heap-ecfd0989e5be
+  - https://qiita.com/ell/items/fe52a9eb9499b7060ed6
+- array and list -> https://www.momoyama-usagi.com/entry/info/algo/list
+- minimum spanning tree -> https://mickey24.hatenablog.com/entry/20090605/1244132474
+- union-find -> https://www.kumilog.net/entry/union-find
+- python 計算量 -> https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb
 
 ## React
 ### API request
 - SWR
   - https://zenn.dev/uttk/articles/b3bcbedbc1fd00
   - https://zenn.dev/mast1ff/articles/a71ece42905c74
+
+### Hooks
+- https://zenn.dev/stin/articles/use-appropriate-api
 
 ### Form
 - React Hook Form
@@ -90,12 +108,17 @@
 - itertools 全探索 -> https://qiita.com/anmint/items/37ca0ded5e1d360b51f3
 - 集計 Counter -> http://ja.pymotw.com/2/collections/counter.html
 - N 進数 -> https://iatlex.com/python/base_change
+- regular expression -> https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3
+- Exception -> https://www.w3schools.com/python/gloss_python_raise.asp
 
 ### Syntax
 - https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c
 - https://qiita.com/papi_tokei/items/2aef9a259fd236d340da
 - https://qiita.com/nicco_mirai/items/c1810ed2a6fc8c53c006
 <!-- - https://qiita.com/_masa_u/items/b21c493a82e8aba8993f -->
+
+### Test
+- https://qiita.com/aomidro/items/3e3449fde924893f18ca
 
 ### FastAPI
 - https://tech-blog.rakus.co.jp/entry/20201209/machine-learning
@@ -131,6 +154,7 @@
 ### JS tips
 - https://qiita.com/k-penguin-sato/items/81fbf561d2c4b68c74cc
 - https://ics.media/entry/200825
+- preventDefault -> https://qiita.com/tochiji/items/4e9e64cabc0a1cd7a1ae
 
 ### Pseudo code
 - https://photoshopvip.net/126827
@@ -140,6 +164,7 @@
 
 ### Animation
 - https://bennettfeely.com/ztext
+- https://ics.media/entry/210409/
 
 ### Compressor
 - https://fengyuanchen.github.io/compressorjs/
