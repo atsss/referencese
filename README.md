@@ -18,13 +18,19 @@
   - https://www.momoyama-usagi.com/entry/info/algo/dp
   - https://qiita.com/drken/items/ace3142967c4f01d42e9
   - https://ameblo.jp/leopapoke/entry-12057911186.html
-- Dijkstra's algorithm <!-- - https://qiita.com/knhr__/items/cb3ce311508337128714 -->
+  - lcs -> https://naoya-2.hatenadiary.org/entry/20090328/1238251033
+- Dijkstra's algorithm
+  - <!-- - https://qiita.com/knhr__/items/cb3ce311508337128714 -->
+  - https://algo-logic.info/dijkstra/
+- minimum spanning tree -> https://mickey24.hatenablog.com/entry/20090605/1244132474
+- Dijkstra vs MSP Prims -> https://www.baeldung.com/cs/prim-dijkstra-difference
+  - if it has starting point, Dijkstra should be taken. otherwise, MSP should be taken
 - Warshall–Floyd Algorithm -> https://qiita.com/okaryo/items/8e6cd73f8a676b7a5d75
 - heap tree
+  - https://kakedashi-engineer.appspot.com/2020/03/18/heapq/
   - https://medium.com/@yasufumy/data-structure-heap-ecfd0989e5be
   - https://qiita.com/ell/items/fe52a9eb9499b7060ed6
 - array and list -> https://www.momoyama-usagi.com/entry/info/algo/list
-- minimum spanning tree -> https://mickey24.hatenablog.com/entry/20090605/1244132474
 - union-find -> https://www.kumilog.net/entry/union-find
 - python 計算量 -> https://qiita.com/Hironsan/items/68161ee16b1c9d7b25fb
 
@@ -36,6 +42,7 @@
 
 ### Hooks
 - https://zenn.dev/stin/articles/use-appropriate-api
+- useCallback: https://stackoverflow.com/questions/55565444/how-to-register-event-with-useeffect-hooks
 
 ### Form
 - React Hook Form
@@ -116,6 +123,9 @@
 - https://qiita.com/papi_tokei/items/2aef9a259fd236d340da
 - https://qiita.com/nicco_mirai/items/c1810ed2a6fc8c53c006
 <!-- - https://qiita.com/_masa_u/items/b21c493a82e8aba8993f -->
+
+### Data science
+- https://digitaldigital.hatenablog.com/entry/2020/07/21/104040
 
 ### Test
 - https://qiita.com/aomidro/items/3e3449fde924893f18ca
